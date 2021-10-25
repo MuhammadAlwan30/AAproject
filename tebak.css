@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+input#nomor {
+    text-align: center;
+    border-radius: 20px;
+    width: 12em;
+    height:2em;
+    background-color: #d4c6b0;
+}
+div.mor {
+    text-align: center;
+    background-color: #d4c6b0;
+    border: 3px solid black;
+    border-radius:5px;
+    padding: 20px 3px;
+    display: block;
+    /* position: relative; */
+    width:30em;
+    margin:50px auto;
+    text-align: center;   
+}
+body {
+    font-family: 'Roboto Mono', monospace;
+    background-image: url(bg.png);
+}
+.submit {
+    background-color: #000;
+    color : #fff;
+}
+#info{
+    background-color: rgb(177, 199, 56);
+    border: 3px solid black;
+    border-radius:5px;
+    padding: 20px 10px;
+    display: block;
+    position: relative;
+    width:20em;
+    margin:50px auto;
+    text-align: center;
+}
+.danger {
+    text-align: left;
+}
